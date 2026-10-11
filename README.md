@@ -15,6 +15,8 @@ A company wants to optimize its marketing budget by targeting only those custome
 - Sleeping Dogs — may react negatively to treatment.
 ## Dataset
 - **Source**: criteo-uplift.csv (Criteo Uplift Prediction Dataset)
+  The dataset used in this project is the **Criteo Uplift Prediction Dataset** (3.25 GB).
+  Download link: [Criteo Uplift Dataset on Kaggle](https://www.kaggle.com/code/hughhuyton/criteo-uplift-modelling/input)
 
 - **Features**: 12 anonymized features (f0–f11) describing customer attributes.
 
@@ -80,6 +82,8 @@ ________________________________________________________________________________
 
 ## Датасет
 - **Источник:** `criteo-uplift.csv` (Criteo Uplift Prediction Dataset)
+  В этом проекте используется набор данных **Criteo Uplift Prediction Dataset** (3.25 GB).
+  Ссылка для скачивания: [Criteo Uplift Dataset on Kaggle](https://www.kaggle.com/code/hughhuyton/criteo-uplift-modelling/input)
 - **Признаки:** 12 анонимизированных признаков (`f0`–`f11`), описывающих атрибуты клиента.
 - **Treatment:** `treatment` (1 = treated, 0 = control)
 - **Целевые переменные:** `conversion` (бинарная), `visit` (бинарная), `exposure` (бинарная)
