@@ -113,4 +113,4 @@ ________________________________________________________________________________
 - Jupyter Notebook
 
 ## Автор
-Oleksii Panin — [LinkedIn](https://www.linkedin.com/in/oleksii-panin-69a509342/) | [GitHub](https://github.com/ALEXP021)
+Алексей Панин — [LinkedIn](https://www.linkedin.com/in/oleksii-panin-69a509342/) | [GitHub](https://github.com/ALEXP021)
