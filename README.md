@@ -1,4 +1,5 @@
 # Uplift Modeling for Marketing Campaigns
+# 🇬🇧 English
 This project compares 5 Uplift models to measure the causal effect of marketing campaigns. The goal is to identify "Persuadables" — customers who will convert only if treated. X-learner and R-learner showed the best results (Qini validation: 877,615 and 805,556). Stack: Python, CausalML, CatBoost, Scikit-learn, Pandas.
 ## Project Overview
 This project focuses on Uplift Modeling — a technique used to measure the causal effect of a marketing campaign on customer behavior. Unlike traditional predictive models, Uplift models identify which customers are most likely to respond positively to a treatment (e.g., a discount, an ad) and which ones would convert anyway.
@@ -62,6 +63,7 @@ Oleksii Panin — [LinkedIn](https://www.linkedin.com/in/oleksii-panin-69a509342
 _________________________________________________________________________________________________________________________________________________
 
 # Uplift Моделирование для Маркетинговых Кампаний
+# 🇷🇺 Русский
 
 Этот проект сравнивает 5 моделей Uplift для измерения причинно-следственного эффекта маркетинговых кампаний. Цель — выявить «Persuadables» (убеждаемых клиентов), которые совершат конверсию только под воздействием treatment. X-learner и R-learner показали лучшие результаты (Qini validation: 877 615 и 805 556). Стек: Python, CausalML, CatBoost, Scikit-learn, Pandas.
 
